@@ -1,4 +1,4 @@
 # Prácticas
-Repositorio para realizar prácticas
+Repositorio para realizar prácticass
 
 En este repositorio voy a alojar el código de mi primera página web.
